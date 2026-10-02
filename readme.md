@@ -38,7 +38,7 @@ A Launch Template was created to define the configuration of the EC2 instances l
 
 ### Screenshot 1 – Launch Template
 
-**[INSERT SCREENSHOT 1 HERE]**
+![](first-ss.png)
 
 *Figure 1 – Launch Template configuration*
 
@@ -60,7 +60,7 @@ The ASG automatically maintains the desired number of EC2 instances and can incr
 
 ### Screenshot 2 – Auto Scaling Group
 
-**[INSERT SCREENSHOT 2 HERE]**
+![](second-ss.png)
 
 *Figure 2 – Auto Scaling Group configuration*
 
@@ -82,7 +82,7 @@ The Target Group was associated with the Application Load Balancer and Auto Scal
 
 ### Screenshot 3 – Target Group
 
-**[INSERT SCREENSHOT 3 HERE]**
+![](third-ss.png)
 
 *Figure 3 – Target Group configuration*
 
@@ -96,7 +96,7 @@ The initial desired capacity was **2**, and the required instances were running 
 
 ### Screenshot 4 – Running Instances
 
-**[INSERT SCREENSHOT 4 HERE]**
+![](fourth-ss.png)
 
 *Figure 4 – EC2 instances running at the desired capacity*
 
@@ -110,7 +110,7 @@ The application was tested using the ALB DNS name and the Nginx web page was suc
 
 ### Screenshot 5 – Website Through ALB
 
-**[INSERT SCREENSHOT 5 HERE]**
+![](fifth-ss.png)
 
 *Figure 5 – Web server running through the Application Load Balancer DNS*
 
@@ -142,7 +142,7 @@ The Auto Scaling Group increased its capacity from **1 to 2** during the test.
 
 ### Screenshot 6 – Automatic Scale-Out
 
-**[INSERT SCREENSHOT 6 HERE]**
+![](sixth-ss.png)
 
 *Figure 6 – New EC2 instance launched automatically after the CPU stress test*
 
@@ -163,7 +163,7 @@ This demonstrates both:
 
 ### Screenshot 7 – ASG Activity History
 
-**[INSERT SCREENSHOT 7 HERE]**
+![](seventh-ss.png)
 
 *Figure 7 – Auto Scaling Activity History showing automatic scaling actions*
 
