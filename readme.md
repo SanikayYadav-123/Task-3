@@ -142,7 +142,7 @@ The Auto Scaling Group increased its capacity from **1 to 2** during the test.
 
 ### Screenshot 6 – Automatic Scale-Out
 
-![](sixth-ss.png)
+![](Sixth-ss.png)
 
 *Figure 6 – New EC2 instance launched automatically after the CPU stress test*
 
